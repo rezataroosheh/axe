@@ -1,2 +1,9 @@
+#general
 .vscode/
+
+#go
 ./src/go/crypto/pinblock/underconstruction/
+
+#csharp
+src/csharp/*/bin
+src/csharp/*/obj
