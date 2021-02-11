@@ -1,6 +1,6 @@
 using System;
 
-namespace Axe.Crypto.AnsiMacs
+namespace Axe.Crypto.Abstraction
 {
     public interface IAnsiMacAlgorithm : IDisposable
     {

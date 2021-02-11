@@ -1,5 +1,6 @@
 using System;
 using System.Security.Cryptography;
+using Axe.Crypto.Abstraction;
 
 namespace Axe.Crypto.AnsiMacs
 {
